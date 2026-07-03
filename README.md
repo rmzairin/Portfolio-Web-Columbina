@@ -42,7 +42,7 @@ Karena project ini murni HTML/CSS/JS tanpa build tool, gak perlu instalasi apapu
 
 ```bash
 git clone https://github.com/rmzairin/Portfolio-Web-Columbina.git
-cd Portfolio-Web-Yae-Miko
+cd Portfolio-Web-Columbina
 ```
 
 Lalu tinggal buka `index.html` langsung di browser, atau kalau mau lewat local server:
